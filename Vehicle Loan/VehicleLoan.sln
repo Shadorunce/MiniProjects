@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VehicleLoan", "VehicleLoan\VehicleLoan.vbproj", "{53F6F39C-9A67-4CB7-80A2-A7FE27B034DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F6F39C-9A67-4CB7-80A2-A7FE27B034DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F6F39C-9A67-4CB7-80A2-A7FE27B034DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F6F39C-9A67-4CB7-80A2-A7FE27B034DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F6F39C-9A67-4CB7-80A2-A7FE27B034DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

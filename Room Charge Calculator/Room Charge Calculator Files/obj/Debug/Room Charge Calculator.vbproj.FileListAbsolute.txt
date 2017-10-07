@@ -1,0 +1,10 @@
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe.config
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room_Charge_Calculator.Form1.resources
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room_Charge_Calculator.Resources.resources
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbproj.GenerateResource.Cache
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.pdb
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.xml
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.exe
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.xml
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap3\Tutorials\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.pdb
