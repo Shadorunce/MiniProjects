@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LongDistanceCalls", "LongDistanceCalls\LongDistanceCalls.vbproj", "{81C65C14-3270-4D25-A829-265218BEBF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C65C14-3270-4D25-A829-265218BEBF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C65C14-3270-4D25-A829-265218BEBF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C65C14-3270-4D25-A829-265218BEBF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C65C14-3270-4D25-A829-265218BEBF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
