@@ -1,0 +1,10 @@
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\bin\Debug\Health Club Membership Fee Calc.exe.config
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\bin\Debug\Health Club Membership Fee Calc.exe
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\bin\Debug\Health Club Membership Fee Calc.pdb
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\bin\Debug\Health Club Membership Fee Calc.xml
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\obj\Debug\Health_Club_Membership_Fee_Calc.Form1.resources
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\obj\Debug\Health_Club_Membership_Fee_Calc.Resources.resources
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\obj\Debug\Health Club Membership Fee Calc.vbproj.GenerateResource.Cache
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\obj\Debug\Health Club Membership Fee Calc.exe
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\obj\Debug\Health Club Membership Fee Calc.xml
+C:\Users\mkellar\Drive 2\School\Class folders\COP1000 Programming\Chap4\Health Club Membership Fee Calc\Health Club Membership Fee Calc\obj\Debug\Health Club Membership Fee Calc.pdb
